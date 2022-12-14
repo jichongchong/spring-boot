@@ -68,7 +68,7 @@
 		<dropwizard-metrics.version>3.1.2</dropwizard-metrics.version>
 		<ehcache.version>2.10.3</ehcache.version>
 		<ehcache3.version>3.1.3</ehcache3.version>
-		<embedded-mongo.version>1.50.5</embedded-mongo.version>
+		<embedded-mongo.version>3.5.4</embedded-mongo.version>
 		<flyway.version>3.2.1</flyway.version>
 		<freemarker.version>2.3.25-incubating</freemarker.version>
 		<elasticsearch.version>2.4.1</elasticsearch.version>
@@ -146,7 +146,7 @@
 		<spring.version>5.0.0.BUILD-SNAPSHOT</spring.version>
 		<spring-amqp.version>2.0.0.BUILD-SNAPSHOT</spring-amqp.version>
 		<spring-cloud-connectors.version>1.2.3.RELEASE</spring-cloud-connectors.version>
-		<spring-batch.version>3.0.7.RELEASE</spring-batch.version>
+		<spring-batch.version>4.3.7</spring-batch.version>
 		<spring-data-releasetrain.version>Ingalls-M1</spring-data-releasetrain.version>
 		<spring-hateoas.version>0.21.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.0.BUILD-SNAPSHOT</spring-integration.version>
