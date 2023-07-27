@@ -200,7 +200,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-test</artifactId>
-				<version>2.0.0.BUILD-SNAPSHOT</version>
+				<version>2.5.13</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -211,7 +211,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-test</artifactId>
 				<type>test-jar</type>
-				<version>2.0.0.BUILD-SNAPSHOT</version>
+				<version>2.5.13</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -226,7 +226,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-autoconfigure</artifactId>
-				<version>2.0.0.BUILD-SNAPSHOT</version>
+				<version>2.2.11.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -236,7 +236,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-configuration-processor</artifactId>
-				<version>2.0.0.BUILD-SNAPSHOT</version>
+				<version>2.0.1.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
